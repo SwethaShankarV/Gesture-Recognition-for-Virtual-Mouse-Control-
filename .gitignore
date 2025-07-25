@@ -1,0 +1,4 @@
+__pycache__/
+virtual_mouse/
+*.py[cod]
+.DS_Store
